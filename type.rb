@@ -1,0 +1,1 @@
+puts "Web camp".include?("Web")
